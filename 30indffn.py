@@ -3,7 +3,7 @@ import pandas as pd
 import statsmodels.api as sm
 
 # 
-file_path = "C:/Users/qaz99/OneDrive/桌面/python/BM25/25bmms.csv"
+file_path = "C:/Users/OneDrive/桌面/python/BM25/25bmms.csv"
 data = pd.read_csv(file_path)
 
 #
